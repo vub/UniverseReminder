@@ -11,12 +11,20 @@ chmod +x time.sh
 Add cronjob:
 ```
 crontab -e
- */5 * * * * ~/Code/mactalk/time.sh
+ */5 * * * * ~/url/to/time.sh
 ```
 
 ### Check voice available in mac
-ls /System/Library/Speech
+ls /System/Library/Speech/Voices/
 
+To change to your favorite voice:
+
+```
+System Preferences > Accessibility > Speech
+
+I'd love Avs's voice so much. Her voice is so deep and attractive. And it's take me about 500Mb to download her voice.
+
+```
 
 ### Feature is plainning...
 
