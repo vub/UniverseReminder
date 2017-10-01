@@ -18,4 +18,11 @@ crontab -e
 ls /System/Library/Speech
 
 
-### Feature is plainning
+### Feature is plainning...
+
+- [ ] Install by npm
+- [ ] Configable for timer 
+- [ ] Configable for voice
+- [ ] Reminder what is next
+
+And so much more awesome feature that waitting for implement :D
