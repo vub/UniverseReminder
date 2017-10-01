@@ -1,9 +1,9 @@
-# UniverseReminder
+# Universe Reminder
 A small tool help reminder time, todo, task, schedule by fancy voice in mac
 
 ### Setup
 
-Change permistion for time.sh file:
+Change permission for time.sh file:
 ```
 chmod +x time.sh
 ```
